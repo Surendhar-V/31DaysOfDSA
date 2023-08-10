@@ -1,4 +1,4 @@
-class LC152_1 {
+class LC153_1 {
     public int findMin(int[] arr) {
 
         if(arr[0] <= arr[arr.length-1]){
@@ -28,9 +28,6 @@ class LC152_1 {
 
 
             }
-
-
-
 
         }
 
